@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChethanNazre
 - 👀 I’m interested in Learning, Coding and Creating Real Time Projects.
-- 🌱 I’m currently learning Java,C,C++,Python,HTML,CSS,DBMS,JS
+- 🌱 I’m currently learning Java,C,Python,HTML,CSS,DBMS,JS
 - 📫 How to reach me? Through mail!
 
 <!---
