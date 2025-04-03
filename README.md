@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=orange" />
   <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&color=blue" />
   <img src="https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&color=yellow" />
+  <img src="https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&color=blue" />
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&color=blue" />
   <img src="https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&color=blue" />
 </p>
 
@@ -15,7 +17,7 @@
 ### 👀 About Me:
 - 🔥 Passionate about **Learning, Coding, and Creating Real-Time Projects**.  
 - 🎯 Currently honing my skills in:  
-  **Java, C, Python, HTML, CSS, DBMS, JavaScript**  
+  **Java, C, Python, HTML, CSS, JavaScript, React, Tailwind CSS, DBMS**  
 - ✨ Exploring **Web Development, AI, and Database Management**.
 
 ---
@@ -28,13 +30,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
 </p>
 
 ---
 
 ### 📬 How to Reach Me:
-📧 Email:chethannazre009@gmail.com
+📧 Email: [chethannazre009@gmail.com](mailto:chethannazre009@gmail.com)  
 🌐 GitHub: [@ChethanNazre](https://github.com/ChethanNazre)
 
 ---
