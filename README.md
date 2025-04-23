@@ -22,7 +22,7 @@
 
 ### 📈 Knowledge Graph:
 <p align="center">
-  <img src="https://github-readme-graph.vercel.app/graph?username=ChethanNazre&theme=react-dark&area=true&hide_border=true" />
+  <img src="chethan_knowledge_graph.png" alt="Knowledge Graph" />
 </p>
 
 ---
