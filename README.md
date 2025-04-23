@@ -20,12 +20,6 @@
 
 ---
 
-### 📈 Knowledge Graph:
-<p align="center">
-  <img src="chethan_knowledge_graph.png" alt="Knowledge Graph" />
-</p>
-
----
 
 ### 👀 About Me:
 - 🔥 Passionate about **Learning, Coding, and Creating Real-Time Projects**.  
