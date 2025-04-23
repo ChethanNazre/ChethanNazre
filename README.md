@@ -10,6 +10,19 @@
   <img src="https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&color=blue" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&color=blue" />
   <img src="https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&color=blue" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&color=green" />
+  <img src="https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=black" />
+  <img src="https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&color=orange" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=green" />
+  <img src="https://img.shields.io/badge/Tools-Mongo%20Atlas-informational?style=flat&logo=mongodb&color=darkgreen" />
+  <img src="https://img.shields.io/badge/Tools-Mongo%20Compass-informational?style=flat&logo=mongodb&color=lightgreen" />
+</p>
+
+---
+
+### 📈 Knowledge Graph:
+<p align="center">
+  <img src="https://github-readme-graph.vercel.app/graph?username=ChethanNazre&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -17,8 +30,8 @@
 ### 👀 About Me:
 - 🔥 Passionate about **Learning, Coding, and Creating Real-Time Projects**.  
 - 🎯 Currently honing my skills in:  
-  **Java, C, Python, HTML, CSS, JavaScript, React, Tailwind CSS, DBMS**  
-- ✨ Exploring **Web Development, AI, and Database Management**.
+  **Java, C, Python, HTML, CSS, JavaScript, React, Tailwind CSS, DBMS, Node.js, Express.js, MongoDB, Postman**  
+- ✨ Exploring **Web Development, API Design, and Database Management**.
 
 ---
 
@@ -31,8 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" />
 </p>
 
 ---
@@ -44,4 +61,4 @@
 ---
 
 ⭐ **Fun Fact:** The best way to predict the future is to **create it**! 🚀  
-💡 **Let's build something amazing together!**  
+💡 **Let's build something amazing together!**
