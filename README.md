@@ -51,10 +51,10 @@
 📧 Email: [chethannazre009@gmail.com](mailto:chethannazre009@gmail.com)  
 🌐 GitHub: [@ChethanNazre](https://github.com/ChethanNazre)
 
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chethan-nazre-s-85a3b7229" target="_blank" style="display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none; color: #ffffff; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: 'SF Pro Text', Helvetica, sans-serif;">Follow on LinkedIn</a>
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chethan-nazre-s-85a3b7229" target="_blank" style="display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none; color: #ffffff; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: 'SF Pro Text', Helvetica, sans-serif;">Follow on LinkedIn</a><a class="libutton" href="https://www.linkedin.com/in/chethan-nazre-s-85a3b7229/" target="_blank">Follow on LinkedIn</a>
 
 ---
 
 ⭐ **Fun Fact:** The best way to predict the future is to **create it**! 🚀  
 💡 **Let's build something amazing together!**
-<a class="libutton" href="https://www.linkedin.com/in/chethan-nazre-s-85a3b7229/" target="_blank">Follow on LinkedIn</a>
+
