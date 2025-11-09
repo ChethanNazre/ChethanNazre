@@ -51,8 +51,6 @@
 📧 Email: [chethannazre009@gmail.com](mailto:chethannazre009@gmail.com)  
 🌐 GitHub: [@ChethanNazre](https://github.com/ChethanNazre)
 
-<a class="libutton" href="https://www.linkedin.com/in/chethan-nazre-s-85a3b7229/" target="_blank">Follow on LinkedIn</a>
-
 ---
 
 ⭐ **Fun Fact:** The best way to predict the future is to **create it**! 🚀  
