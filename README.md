@@ -53,6 +53,4 @@
 
 ---
 
-⭐ **Fun Fact:** The best way to predict the future is to **create it**! 🚀  
-💡 **Let's build something amazing together!**
 
