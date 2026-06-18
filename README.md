@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Chethan Nazre! 🚀</h1>
 
----
 
 ### About Me
 
