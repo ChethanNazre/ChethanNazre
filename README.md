@@ -70,6 +70,7 @@
   <img src="https://jwt.io/img/pic_logo.svg" height="50" />
 </p>
 ---
+
 ### 📫 Connect with Me
 
 <p align="left">
@@ -83,10 +84,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-* 📧 **Email:** `chethannazre009@gmail.com`
-* 💼 **LinkedIn:** `linkedin.com/in/chethan-nazre`
-* 🌐 **GitHub:** `github.com/ChethanNazre`
 
 ---
 
