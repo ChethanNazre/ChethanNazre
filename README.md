@@ -1,25 +1,6 @@
 <h1 align="center"> Hi, I'm Chethan Nazre! 🚀</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=red" />
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=blue" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=yellow" />
-  <img src="https://img.shields.io/badge/Web-HTML5-informational?style=flat&logo=html5&color=orange" />
-  <img src="https://img.shields.io/badge/Web-CSS3-informational?style=flat&logo=css3&color=blue" />
-  <img src="https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&color=yellow" />
-  <img src="https://img.shields.io/badge/Web-React-informational?style=flat&logo=react&color=blue" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&color=blue" />
-  <img src="https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=mysql&color=blue" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&color=green" />
-  <img src="https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&color=black" />
-  <img src="https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&color=orange" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=green" />
-  <img src="https://img.shields.io/badge/Tools-Mongo%20Atlas-informational?style=flat&logo=mongodb&color=darkgreen" />
-  <img src="https://img.shields.io/badge/Tools-Mongo%20Compass-informational?style=flat&logo=mongodb&color=lightgreen" />
-</p>
-
 ---
-
 
 ### About Me
 
