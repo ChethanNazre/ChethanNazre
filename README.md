@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="example.gif" width="600" />
+  <img src="example.gif" width="800" />
 </p>
